@@ -15,7 +15,7 @@ Para executar os códigos da placa Arduino, é necessário ter o Arduino IDE ins
 
 ## Instalação
 
-Para configurar sua placa Arduino conforme o projeto, siga as instruções apresentadas no [site do Wokwi](link). Após montar a placa de acordo com as especificações, conecte-a ao seu computador. Em seguida, baixe o arquivo "vinheira.ino", compile-o, e seu projeto estará funcionando!
+Para configurar sua placa Arduino conforme o projeto, siga as instruções apresentadas no site do Wokwi. Após montar a placa de acordo com as especificações, conecte-a ao seu computador. Em seguida, baixe o arquivo "vinheira.ino", compile-o, e seu projeto estará funcionando!
 
 ## Ferramentas Utilizadas
 
