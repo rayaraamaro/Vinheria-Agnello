@@ -26,11 +26,50 @@ Este projeto foi construído com as seguintes ferramentas:
 
 ## Autores
 
-- Felipe Castro Salazar
-- Lucas Reis Diniz
-- Victor Rodrigues Pereira Paes
-- Eduardo Fidelis Chaves
-- Rayara Amaro Figueiredo
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/VictorRodrigues16">
+        <img src="https://avatars.githubusercontent.com/u/143040764?v=4" width="100px;" alt="Foto do Victor no GitHub"/><br>
+        <sub>
+          <b>Victor</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/educf-code">
+        <img src="https://avatars.githubusercontent.com/u/127149439?v=4" width="100px;" alt="Foto do Edu no GitHub"/><br>
+        <sub>
+          <b>Eduardo</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/joraysuke">
+        <img src="https://avatars.githubusercontent.com/u/143045200?v=4" width="100px;" alt="Foto da Rayara no GitHub"/><br>
+        <sub>
+          <b>Rayara</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/FelipeSalazar1">
+        <img src="https://avatars.githubusercontent.com/u/91813889?v=4" width="100px;" alt="Foto do Felipe no GitHub"/><br>
+        <sub>
+          <b>Felipe</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/CodedByLucke">
+        <img src="https://avatars.githubusercontent.com/u/145406645?v=4" width="100px;" alt="Foto do Lucas no GitHub"/><br>
+        <sub>
+          <b>Lucas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Agradecimentos
 
