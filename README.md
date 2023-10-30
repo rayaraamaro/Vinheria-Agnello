@@ -21,7 +21,7 @@ Para configurar sua placa Arduino conforme o projeto, siga as instruções apres
 
 Este projeto foi construído com as seguintes ferramentas:
 
-- [Wokwi](https://wokwi.com/)
+- [Wokwi](https://wokwi.com/projects/379953239389075457)
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Autores
